@@ -1,6 +1,6 @@
 # Image Enhancement Project
 
-This project focuses on enhancing images using **Histogram Equalization** and **CLAHE (Contrast Limited Adaptive Histogram Equalization)** techniques with Python and OpenCV.
+This project focuses on enhancing images and Edge detection using **Histogram Equalization** and **CLAHE (Contrast Limited Adaptive Histogram Equalization)** techniques with Python and OpenCV.
 
 ## Features
 
